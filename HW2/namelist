@@ -1,6 +1,6 @@
 q#! bin/bash
 # for-loop test script
-names='saad ali'
+names='saad Ayad'
 for i in $names
 do
   echo Hello $i
