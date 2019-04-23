@@ -1,4 +1,4 @@
-q#! bin/bash
+#! bin/bash
 # for-loop test script
 names='saad Ayad'
 for i in $names
